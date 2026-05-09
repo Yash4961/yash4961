@@ -83,3 +83,15 @@
 - 🌱 Exploring Open Source, Research, and innovative AI-driven solutions
 
 
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,swift,javascript" />
+</p>
+<p align="center">
+  💻 C++ for Problem Solving & DSA <br>
+  🤖 Python for AI, ML & Automation <br>
+  📱 Swift for iOS Development Exploration <br>
+  🌐 JavaScript for Web Development
+</p>
+
+
