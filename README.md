@@ -85,13 +85,8 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,swift,javascript" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,swift,javascript,java,css" />
 </p>
-<p align="center">
-  💻 C++ for Problem Solving & DSA <br>
-  🤖 Python for AI, ML & Automation <br>
-  📱 Swift for iOS Development Exploration <br>
-  🌐 JavaScript for Web Development
-</p>
+
 
 
