@@ -83,10 +83,6 @@
 - 🌱 Exploring Open Source, Research, and innovative AI-driven solutions
 
 
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,swift,javascript,java,css" />
-</p>
 
 
 
