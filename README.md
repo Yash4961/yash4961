@@ -1,7 +1,7 @@
 <!-- =========================FUTURISTIC HEADER========================= -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?[type=waving&height=280&text=Yash%20Rathore&fontAlign=50&fontAlignY=38&color=0:00F5A0,50:00D9F5,100:7F5AF0&fontColor=ffffff&animation=twinkling&fontSize=58&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20"](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yash%20Rathore%20&textBg=false&fontColor=1560BD&fontSize=0&reversal=true)
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Yash%20Rathore&fontAlign=50&fontAlignY=38&color=0:00F5A0,50:00D9F5,100:7F5AF0&fontColor=ffffff&animation=twinkling&fontSize=58&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20"
   />
 </p>
 <!-- =========================TYPING TEXT========================= -->
