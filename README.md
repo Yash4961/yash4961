@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-Lover-FF6B6B?style=for-the-badge" />
 </p>
 <!-- =========================TROPHIES========================= -->
-<p align="center">
+<!--<p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=Yash4961&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"
   />
