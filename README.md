@@ -11,7 +11,7 @@
   />
 </p>
 <!-- =========================BADGES========================= -->
-<p align="center">
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00F5A0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-Full%20Stack-7F5AF0?style=for-the-badge" />
