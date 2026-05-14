@@ -25,7 +25,7 @@
 </p>
 <!-- =========================GITHUB STATS========================= -->
 
-<p align="center">
+<!--<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash4961&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash4961&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
